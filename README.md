@@ -3,6 +3,6 @@ Rust based hardware prefetching for OS hardware probing. This is intended with u
 
 # Directions for Use
 In order to use this repository, change directory into any of the "module" folders and run the following command:
-`cargo run --release`
+```cargo run --release```
 
 The binary can then be detached from the `target/release` folder and placed where it is appropriate.
